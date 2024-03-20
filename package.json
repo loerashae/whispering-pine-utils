@@ -1,0 +1,21 @@
+{
+  "name": "whispering-pine-utils",
+  "version": "1.2.2",
+  "description": "A set of utility functions for common tasks like validation, date formatting, and slugification.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loerashae/whispering-pine-utils"
+  },
+  "keywords": ["utilities", "validation", "date", "slugify"],
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.0.0",
+    "validator": "^13.0.0",
+    "slugify": "^1.5.0",
+    "pluralize": "^8.0.0"
+  }
+}
